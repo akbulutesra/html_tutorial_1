@@ -1,0 +1,8 @@
+div  {
+    border-style: solid;
+    width:1000px;
+    padding-left: 50px;
+    
+    position: relative;
+    top:100px;
+}
