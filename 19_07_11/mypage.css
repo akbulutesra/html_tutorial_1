@@ -1,0 +1,23 @@
+body{
+    background-color: #f7a477;
+}
+.top{
+    
+    font-weight: bold;
+}
+#woman{
+    background-color: #f7a477;
+}
+
+body {
+ background-image: url("parfum.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#sidebox{
+    width: 80%;
+    border-style: solid;
+    margin: auto;
+    padding-left: 10px;
+    padding-right:10px;
+}
