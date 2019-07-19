@@ -1,0 +1,25 @@
+.inline{
+    display: inline;
+
+}
+#topsection{
+    background:url(hatebackground.jpeg) center;
+    background-size: 100%;
+    color:palevioletred;
+
+}
+#fashiondesignTitle{
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+#logo{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.TextileDesignBlock{
+    padding: 0 !important; 
+    margin: 0 !important;
+    
+}
